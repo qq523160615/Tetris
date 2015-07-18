@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">俄罗斯方块</string>
+    <string name="name"><font color="RED">您的姓名:</font></string>
+    <string name="point"><font color="RED">您的分数:</font></string>
+	<integer-array name="point">
+	    <item >4</item>
+	    <item >0</item>
+	</integer-array>
+</resources>
