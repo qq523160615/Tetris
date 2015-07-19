@@ -35,7 +35,6 @@ import com.weibo.sdk.android.Weibo;
 import com.weibo.sdk.android.WeiboAuthListener;
 import com.weibo.sdk.android.WeiboDialogError;
 import com.weibo.sdk.android.WeiboException;
-import com.weibo.sdk.android.demo.R;
 import com.weibo.sdk.android.sso.SsoHandler;
 import com.weibo.sdk.android.util.AccessTokenKeeper;
 

@@ -7,13 +7,13 @@ import android.content.Context;
 import android.util.Log;
 import android.view.MotionEvent;
 import android.view.View;
-import android.view.Window;
 import android.view.View.OnTouchListener;
+import android.view.Window;
 
 import com.example.android_canvas.GameView;
+import com.example.android_canvas.R;
 import com.example.android_canvas.dto.GameDto;
 import com.example.android_canvas.entity.Box;
-import com.weibo.sdk.android.demo.R;
 
 public class GameControl implements OnTouchListener {
 

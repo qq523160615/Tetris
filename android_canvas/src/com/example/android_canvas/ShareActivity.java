@@ -21,7 +21,6 @@ import com.sina.weibo.sdk.api.SendMultiMessageToWeiboRequest;
 import com.sina.weibo.sdk.api.TextObject;
 import com.sina.weibo.sdk.api.WeiboMessage;
 import com.sina.weibo.sdk.api.WeiboMultiMessage;
-import com.weibo.sdk.android.demo.R;
 
 /**
  * 该Activity演示了第三方应用如何发送请求消息给微博客户端。发送的内容包括文字、图片、视频、音乐等。 执行流程： 从本应用->微博->本应用

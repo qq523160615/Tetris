@@ -9,7 +9,6 @@ import android.view.WindowManager;
 
 import com.example.android_canvas.dto.GameDto;
 import com.example.android_canvas.media.Music;
-import com.weibo.sdk.android.demo.R;
 
 public class MainActivity extends Activity {
 

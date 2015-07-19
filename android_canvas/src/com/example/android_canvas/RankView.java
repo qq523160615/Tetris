@@ -13,7 +13,6 @@ import android.view.View;
 
 import com.example.android_canvas.database.Player;
 import com.example.android_canvas.dto.GameDto;
-import com.weibo.sdk.android.demo.R;
 
 public class RankView extends View
 {

@@ -14,7 +14,6 @@ import android.widget.CheckBox;
 
 import com.example.android_canvas.database.DataBase;
 import com.example.android_canvas.dto.GameDto;
-import com.weibo.sdk.android.demo.R;
 
 public class MainGame extends Activity {
 
